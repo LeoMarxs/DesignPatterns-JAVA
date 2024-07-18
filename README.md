@@ -6,6 +6,7 @@
 </h1>
   
 ## 🚩 Design Patterns com Java: 
+Design patterns são soluções reutilizáveis e comprovadas para problemas comuns que surgem frequentemente no design de software. Eles representam as melhores práticas desenvolvidas por programadores experientes ao longo do tempo. Design patterns ajudam a melhorar a comunicação entre desenvolvedores, facilitam a manutenção do código e aumentam a flexibilidade e a reutilização do software.
 
 ### Padrões de Design Implementados
 
